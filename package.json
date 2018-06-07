@@ -15,11 +15,11 @@
 		"grunt-contrib-watch": "~0.6.1",
 		"grunt-bower-task": "~0.3.4",
 		"grunt-karma": "^0.12.2",
-		"karma": "^1.6.0",
+		"karma": "~0.10,
 		"karma-jasmine": "^1.1.2",
 		"karma-phantomjs-launcher": "^1.0.4",
 		"karma-ng-html2js-preprocessor": "^1.0.0",
 		"karma-junit-reporter": "^1.2.0",
-		"karma-coverage": "^1.1.2"
+		"karma-coverage": "~0.1.2"
 	}
 }
