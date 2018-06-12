@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<testsuite name="PhantomJS 2.1.1 (Linux 0.0.0)" package="" timestamp="2018-06-12T14:39:49" id="0" hostname="elemental" tests="14" errors="1" failures="0" time="0">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1"/>
+  </properties>
+  <system-out>
+    <![CDATA[PhantomJS 2.1.1 (Linux 0.0.0) ERROR
+  {
+    "message": "An error was thrown in afterAll\nReferenceError: Can't find variable: module in tests/ratingDirectiveSpec.js (line 9)\ntests/ratingDirectiveSpec.js:9:20\n<Jasmine>",
+    "str": "An error was thrown in afterAll\nReferenceError: Can't find variable: module in tests/ratingDirectiveSpec.js (line 9)\ntests/ratingDirectiveSpec.js:9:20\n<Jasmine>"
+  }
+
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
